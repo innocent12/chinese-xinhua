@@ -1,11 +1,15 @@
-原项目链接：https://github.com/pwxcoo/chinese-xinhua
+
 本项目词条资源用于网站  www.waving.top  可使用查看。
 
-1.查询成语 <a href="www.waving.top">查询成语</a>
-2.算法分析热门文章并总结成语
-3.查询成语用法
-4.出处查询
-5.自然语言处理分析领域热门文章总结成语，浏览成语迅速对接整个领域。
+原项目链接：https://github.com/pwxcoo/chinese-xinhua
+
+1.查询成语 <a href="www.waving.top">查询成语</a> \n
+2.算法分析热门文章并总结成语 \n
+3.查询成语用法 \n
+4.出处查询 \n
+5.自然语言处理分析领域热门文章总结成语，浏览成语迅速对接整个领域。 \n
+
+尽在 www.waving.top  比较简洁
 
 
 
